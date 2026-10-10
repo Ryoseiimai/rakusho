@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><!-- 32px相当の favicon は視認性のため、金の二重線（DESIGN.md 4章）を単線に簡略化している --><rect width="64" height="64" rx="8" fill="#0E1626"/><line x1="16" y1="16" x2="48" y2="48" stroke="#C8A159" stroke-width="6" stroke-linecap="round"/><line x1="48" y1="16" x2="16" y2="48" stroke="#C8A159" stroke-width="6" stroke-linecap="round"/></svg>
